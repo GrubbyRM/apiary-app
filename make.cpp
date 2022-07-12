@@ -4,7 +4,7 @@
 
 int main() {
 
-    beehive first("pierwszy", 1, "wielkopolski WL", 13);
+    beehive first("pierwszy", 1, "wielkopolski 12-ram", 13);
 
 
 }
